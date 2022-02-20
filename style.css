@@ -1,0 +1,49 @@
+/* .link:link
+{
+    color: aqua;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link:visited
+{
+    color: pink;
+    background-color: beige;
+    text-decoration: dotted;
+}
+.link:hover
+{
+    color: maroon;
+    background-color: transparent;
+    text-decoration: dotted;
+    display: none;
+
+} */
+
+a:link, a:visited {
+    background-color: #36f4ab;
+    color: aliceblue;
+    padding: 25px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.link:hover,
+.link:active {
+    background-color: #f44336;
+    padding: 25px 25px;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.bg-image
+{
+    color:#f44336;
+    background-image: url('Images/istockphoto-537373196-612x612.jpg');
+    background-repeat:no-repeat;
+    background-attachment:local;
+    background-size:100% 100%;
+}
+
+
