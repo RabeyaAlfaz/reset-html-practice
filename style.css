@@ -41,7 +41,7 @@ a:link, a:visited {
 {
     color:#f44336;
     background-image: url('Images/istockphoto-537373196-612x612.jpg');
-    background-repeat:no-repeat;
+    background-repeat:round;
     background-attachment:local;
     background-size:100% 100%;
 }
